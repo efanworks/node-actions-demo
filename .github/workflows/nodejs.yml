@@ -1,5 +1,4 @@
 name: Node.js CI
-run-name: "Node.js CI on ${{ github.ref }}"
 
 on:
   push:

@@ -1,0 +1,11 @@
+{
+  "name": "node-actions-demo",
+  "version": "1.0.0",
+  "description": "Demo project for GitHub Actions workflow.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"This is a placeholder test script.\""
+  },
+  "author": "",
+  "license": "ISC"
+}
